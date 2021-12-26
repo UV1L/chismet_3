@@ -1,6 +1,6 @@
 >>>Васянович А.М., Вариант - 2
 
-![Screenshot](чисмет
+![Screenshot](чисмет%20лр3-1.png)
 ![Screenshot](чисмет%20лр3-2.png)
 ![Screenshot](чисмет%20лр3-3.png)
 
